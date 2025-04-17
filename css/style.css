@@ -1,0 +1,15 @@
+body {
+    background-color: pink;
+}
+table {
+    border: 2px solid rgb(241, 105, 128);
+}
+th, td {
+    border: 2px solid rgb(247, 61, 92) ;
+}
+th{
+    height: 30px;
+}
+td {
+    height: 70px;
+}
